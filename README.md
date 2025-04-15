@@ -174,7 +174,7 @@ The Arduino code for sensor reading, decision logic, and Blynk communication is 
 
 ## 📸 Project Images
 
-*(Upload photos of your actual working system here)*
+(https://github.com/Divayp/Field-Monitoring-System-for-Smart-Agriculture-using-IoT/tree/main/Images)
 
 ---
 
