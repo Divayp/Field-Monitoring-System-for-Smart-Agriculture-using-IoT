@@ -178,13 +178,20 @@ The Arduino code for sensor reading, decision logic, and Blynk communication is 
 
 ---
 
-## 🤝 Contributors
-
-- **Jan** – Developer, Circuit Design, IoT Integration
-- Team Members – Testing, Documentation, Assembly
+## 🤝 **Contributing**
+Want to contribute?  
+1. Fork the repository 🍴  
+2. Create a new branch ✨  
+3. Commit your changes 🔄  
+4. Submit a Pull Request ✅  
 
 ---
 
-## 📜 License
+## 📜 **License**
+This project is licensed under the **MIT License** – feel free to modify and share!  
 
-This project is open-source and available under the [MIT License](LICENSE).
+📌 **Repository Link:** [Field Monitoring System for Smart Agriculture using IoT GitHub](https://github.com/Field-Monitoring-System-for-Smart-Agriculture-using-IoT)*  
+
+---
+
+This README provides a **detailed**, **structured**, and **professional** overview.  
