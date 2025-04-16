@@ -190,7 +190,7 @@ Want to contribute?
 ## 📜 **License**
 This project is licensed under the **MIT License** – feel free to modify and share!  
 
-📌 **Repository Link:** [Field Monitoring System for Smart Agriculture using IoT GitHub](https://github.com/Field-Monitoring-System-for-Smart-Agriculture-using-IoT)*  
+📌 **Repository Link:** [Field Monitoring System for Smart Agriculture using IoT GitHub](https://github.com/Field-Monitoring-System-for-Smart-Agriculture-using-IoT)
 
 ---
 
